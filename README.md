@@ -1,7 +1,3 @@
-İşte belirttiğiniz Python kodu için bir "README" dosyası örneği:
-
----
-
 # QR Kod Üretme Uygulaması
 
 Bu Python uygulaması, verilen bir URL'yi alır ve buna karşılık gelen QR kodunu oluşturur. QR kodu, `qrcode` kütüphanesi ve `PIL` (Python Imaging Library) kullanılarak üretilir. Bu uygulama, LinkedIn profiliniz gibi herhangi bir bağlantıyı hızlıca bir QR koda dönüştürmek için kullanılabilir.
